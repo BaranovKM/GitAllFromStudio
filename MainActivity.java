@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 //некий текст для проверки коммита
-    //коммит в старую ветку мастера
+    //коммит второй коммит в мастера
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
